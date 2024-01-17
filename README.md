@@ -1,24 +1,28 @@
-# README
+# サバゲーHPテスト作成
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+サイト概要
+## 新規HP（顧客、イベント管理等含む）作成テスト用
+学習内容確認を主な目的とし、実践でも使えるようなHP作成を目指しています。
 
-Things you may want to cover:
+### 実装内容（検討途中）
 
-* Ruby version
+管理者画面では、
 
-* System dependencies
+* イベントの登録・告知などのお知らせ掲示
+* 登録者への告知メール送付
 
-* Configuration
+上記を含めたイベントや顧客の管理を把握しやすいように設計する予定です。
 
-* Database creation
 
-* Database initialization
+顧客（利用者）登録をすると、イベントへの参加や耳寄り情報などを受け取ることができます。
+なお、アウトドアイベントということで緊急連絡先などの情報も組み込む予定です。
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Mac of
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
+​
